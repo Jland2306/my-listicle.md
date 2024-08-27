@@ -2,7 +2,7 @@
 
 ---
 
-## *Mammals*
+## **Mammals**
 - [Human](https://en.wikipedia.org/wiki/Human)
 - [Dog](https://en.wikipedia.org/wiki/Dog)
 - [Platypus](https://en.wikipedia.org/wiki/Platypus)
@@ -14,7 +14,7 @@
 - [Cat](https://en.wikipedia.org/wiki/Cat)
 - [Goat](https://en.wikipedia.org/wiki/Goat)
 
-## *Reptiles*
+## **Reptiles**
 
 - [Lizards](https://en.wikipedia.org/wiki/Lizard)
 - [Turtles](https://en.wikipedia.org/wiki/Turtle)
