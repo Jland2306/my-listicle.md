@@ -30,3 +30,7 @@
 ![Cassie](md-images/cassie.jpg)
 
 ![Eagle](md-images/eagle.jpg)
+
+![Seal](md-images/seal.jpg)
+
+![Wolf](md-images/wolf.jpg)
